@@ -1,0 +1,35 @@
+Self-driving / [Automated Safety System]
+
+- Scenario-focused
+  - Car vs. person (moving/stationary)
+  - Car vs. vehicle (moving/stationary)
+  - Car vs. object (stationary/moving)
+  - Driver unusual behavior / non-sober
+  - Driver unconscious
+
+- Interoperability 
+  - Car locations / coordinates
+  - Car speed
+  - Car acceleration
+  - Car direction
+  - Car distance from other cars/vehicles/objects/people
+  - Car position in road/lane
+  - Car distance from stop/intersection
+  - Road angle
+  - Road width
+  - Road friction/texture
+
+- Actions
+  - Slow-down/stop at distance/speed/acceleration/direction (Frequency level 3 (common))
+  - Steering adjustment at distance/speed/acceleration/direction (Frequency level 2 (somewhat common))
+  - Accelerate at distance/speed/acceleration/direction behind (Frequency level 1 (rare))
+
+- Implementation
+  - New models
+  - Old models retroactive installation
+  - Mandate
+
+  
+
+
+
